@@ -2,5 +2,9 @@
     "title":"一个属于娃贩子的网站",
     "subTitle":"老天我只是爱买娃娃！",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "bottomText":"补药抓我走",
+    "themeMode":"manual",
+    "dayTheme":"light",
+    "nightTheme":"dark"
 }
